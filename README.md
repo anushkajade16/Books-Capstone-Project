@@ -32,5 +32,6 @@ Python (pandas, matplotlib, seaborn, scikit-learn), BeautifulSoup for scraping, 
 - [`Books_Raw_Data.csv`](Books_Capstone_Project/Books_Raw_Data.csv) – Raw datasets
 - [`Books_Cleaned_Data.csv`](Books_Capstone_Project/Books_Cleaned_Data%20.csv)  – cleaned datasets
 - [`Books_Capstone_Report.pdf`](Books_Capstone_Project/Books_Capstone_Report.pdf) – a full write-up of the project with charts and dashboard screenshots
+- - [`Books_PowerBI_Dashboard.pdf`](Books_Capstone_Project/Books_PowerBI_Dashboard.pdf) – Power BI dashboard exported as PDF
 
 If you want to see the results without running any code, the PDF report is the easiest place to start — it walks through the charts and has screenshots of the dashboard itself.
