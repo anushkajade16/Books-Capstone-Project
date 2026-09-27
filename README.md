@@ -29,8 +29,7 @@ Python (pandas, matplotlib, seaborn, scikit-learn), BeautifulSoup for scraping, 
 
 - [`01_Web_Scraping_Books.ipynb`](Books_Capstone_Project/01_Web_Scraping_Books.ipynb) – the scraping script
 - [`02_Cleaning_EDA_ML.ipynb`](Books_Capstone_Project/02_Cleaning_EDA_ML.ipynb) – cleaning, EDA, and the ML model
-- [`Books_Raw_Data.csv`](Books_Capstone_Project/Books_Raw_Data.csv) / [`Books_Cleaned_Data.csv`(Books_Capstone_Project/Books_Cleaned_Data.csv)
-  `](Books_Capstone_Project/Books_Cleaned_Data.csv) – the raw and cleaned datasets
+- [`Books_Cleaned_Data.csv`](Books_Capstone_Project/Books_Cleaned_Data%20.csv)[`Books_Cleaned_Data.csv`](Books_Capstone_Project/Books_Cleaned_Data.csv)- the raw and cleaned datasets
 - [`Books_Capstone_Report.pdf`](Books_Capstone_Project/Books_Capstone_Report.pdf) – a full write-up of the project with charts and dashboard screenshots
 
 If you want to see the results without running any code, the PDF report is the easiest place to start — it walks through the charts and has screenshots of the dashboard itself.
