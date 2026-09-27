@@ -1,4 +1,4 @@
-#Books Capstone Project
+# Books Capstone Project
 
 This was my capstone project - I wanted to practice the full data process, 
 from collecting data myself to presenting it in a dashboard.
